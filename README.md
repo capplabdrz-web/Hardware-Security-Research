@@ -1,4 +1,4 @@
-# Hardware_Security
+# Hardware-Security-Research
 
 Machine Learning for Hardware Security Research
 
